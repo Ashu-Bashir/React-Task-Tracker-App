@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.container{
+  max-width: 1160px;
+  margin: auto;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn{
+  background-color: black;
+  color: white;
+  height: 40px;
+  padding: 10px 20px;
+}
+
+
+/* div{
+  border: 2px solid red;
+} */
